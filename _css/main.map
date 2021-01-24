@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../_sass/main.scss",
+		"../_sass/variables.scss",
+		"../_sass/header.scss"
+	],
+	"sourcesContent": [
+		"@import \"./variables\";\r\n@import \"./header\";\r\n\r\n.nav {\r\n\tdisplay: flex;\r\n\t#logo {\r\n\twidth: 100px;\r\n\t}\r\n}",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": ";AAGA,AAAA,IAAI,CAAC;EACJ,OAAO,EAAE,IAAI,GAIb;;EALD,AAEC,IAFG,CAEH,KAAK,CAAC;IACN,KAAK,EAAE,KAAK,GACX"
+}
